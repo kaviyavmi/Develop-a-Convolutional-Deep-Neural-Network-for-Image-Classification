@@ -38,9 +38,9 @@ Predict on a Single Image and display the image
 
 ## PROGRAM
 
-### Name:
+### Name: KAVIYA V M
 
-### Register Number:
+### Register Number: 212224040154
 
 ```python
 class CNNClassifier(nn.Module):
